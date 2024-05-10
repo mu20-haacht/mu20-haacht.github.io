@@ -1,0 +1,23 @@
+title: K.F.C. 
+description: >- # This is your site description
+  SPARTA HAACHT TILDONK
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mu20-haacht.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+theme: modernist # or any other theme
+
+# Architect
+# Cayman
+# Dinky
+# Hacker
+# Leap day
+# Merlot
+# Midnight
+# Minima
+# Minimal
+# Modernist
+# Slate
+# Tactile
+# Time machine
