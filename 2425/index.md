@@ -1,6 +1,4 @@
 ---
 layout: page
-# title: level 1 - Post
+title: Index
 ---
-
-## Index

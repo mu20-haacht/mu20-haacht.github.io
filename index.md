@@ -1,6 +1,4 @@
 ---
 layout: home
-# title: Level 0 - Home
+title: Home
 ---
-
-## Home

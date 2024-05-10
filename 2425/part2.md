@@ -1,6 +1,4 @@
 ---
 layout: page
-# title: level 2 - Page
+title: Part 2
 ---
-
-## Part 2
