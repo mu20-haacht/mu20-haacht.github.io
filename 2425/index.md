@@ -1,4 +1,4 @@
 ---
 layout: page
-# title: Index
+title: 2024-2025
 ---

@@ -1,4 +1,4 @@
 ---
 layout: page
-# title: Part 1
+title: Deel 1
 ---
