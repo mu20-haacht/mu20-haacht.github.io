@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: base
 # title: level 2 - Page
 ---
 
-## Page
+## Part 2

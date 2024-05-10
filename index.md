@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: base
 # title: Level 0 - Home
 ---
 
