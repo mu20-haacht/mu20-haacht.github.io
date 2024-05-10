@@ -8,8 +8,9 @@ url: "https://mu20-haacht.github.io" # the base hostname & protocol for your sit
 markdown: kramdown
 theme: minima # or any other theme
 header_pages:
-  - 2425/index.md
-  - 2425/part1.md
+  - index-2425.md
+  - part1-2425.md
+  - part2-2425.md
 
 # Architect
 # Cayman
