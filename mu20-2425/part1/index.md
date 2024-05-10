@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Part 1
+title: Level 2 - Base
 ---
 
 ## Base

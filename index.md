@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Level 0
+title: Level 0 - Home
 ---
 
 ## Home
