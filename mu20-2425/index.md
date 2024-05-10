@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: mu-20 2425
 ---
 
