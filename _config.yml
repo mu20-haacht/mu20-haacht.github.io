@@ -6,7 +6,7 @@ url: "https://mu20-haacht.github.io" # the base hostname & protocol for your sit
 
 # Build settings
 markdown: kramdown
-theme: modernist # or any other theme
+theme: minima # or any other theme
 
 # Architect
 # Cayman
@@ -21,3 +21,7 @@ theme: modernist # or any other theme
 # Slate
 # Tactile
 # Time machine
+
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
