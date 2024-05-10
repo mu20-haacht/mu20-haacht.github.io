@@ -5,8 +5,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mu20-haacht.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-markdown: kramdown
-theme: minima # or any other theme
+# markdown: kramdown
+# theme: minima # or any other theme
 
 # Architect
 # Cayman
