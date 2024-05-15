@@ -6,28 +6,28 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU20 seiz
 
 ## Speelsters
 
-Voornaam | Naam 
+Voornaam | Naam | Deel 1 | Deel 2
 ---|---
-Tessa	| Mertens
-Auke	| Marin
-Lore	| Van noten
-Morane	| Vermunicht
-Margue	| Le leu
-Dee Dee	| Lahor
-Julia	| Caluwaerts
-Ella	| Van Loo
-Lize	| Ver Eecke
-Féliz	| Lemmens
-Marie	| Aerts
-Gitte	| Smits
-Celine	| Salib
-Esmee	| Quintelier
-Tille	| Samyn
-Rhune	| De Cat
-Imke	| Vermoesen
-Nina	| Vander Aerschot
-Febe	| Mattheus
-Lisa	| Geuvens
+Tessa	| Mertens | ✅ | ?
+Auke	| Marin | ✅ | ?
+Lore	| Van noten | ✅ | ?
+Morane	| Vermunicht | ✅ | ?
+Margue	| Le leu | ✅ | ?
+Dee Dee	| Lahor | ✅ | ?
+Julia	| Caluwaerts | ✅ | ?
+Ella	| Van Loo | ✅ | ?
+Lize	| Ver Eecke | ✅ | ?
+Féliz	| Lemmens | ✅ | ?
+Marie	| Aerts | ✅ | ?
+Gitte	| Smits | ✅ | ?
+Celine	| Salib | ✅ | ?
+Esmee	| Quintelier | ✅ | ?
+Tille	| Samyn | ✅ | ?
+Rhune	| De Cat | ✅ | ?
+Imke	| Vermoesen | ✅ | ?
+Nina	| Vander Aerschot | ✅ | ?
+Febe	| Mattheus | ✅ | ?
+Lisa	| Geuvens | ✅ | ?
 
 ## Staf
 
