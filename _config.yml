@@ -10,7 +10,7 @@ theme: minima # or any other theme
 header_pages:
   - 2425/index.md
   - 2425/part1.md
-  # - 2425/part2.md
+  - 2425/part2.md
 
 # Architect
 # Cayman
