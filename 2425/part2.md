@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deel 2
+# title: Deel 2
 ---
 
 
