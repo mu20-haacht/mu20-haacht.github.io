@@ -14,8 +14,8 @@ header_pages:
   - 2425/index.md
   - 2425/part1.md
   - 2425/part2.md
-  - players/index.md
-  - staff/index.md
+  # - players/index.md
+  # - staff/index.md
 
 minima:
   skin: solarized # dark|classic|solarized-light|solarized-dark|auto|solarized
