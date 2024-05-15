@@ -6,6 +6,7 @@ url: "https://mu20-haacht.github.io" # the base hostname & protocol for your sit
 author:
   name: Sujith Quintelier
   # email: sujith.quintelier@gmail.com
+  
 # Build settings
 markdown: kramdown
 theme: minima # or any other theme
