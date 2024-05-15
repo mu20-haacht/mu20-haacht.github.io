@@ -8,6 +8,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU20 seiz
 ## Volgende wedstrijd info
 
 ## Resterende wedstrijden
+
 Datum   | Thuis | Uit   | Tegenstander  | Uur
 ---     |:---:  |:---:  |---            | ---
 ?       |?      |?      |?              | ?
@@ -15,6 +16,7 @@ Datum   | Thuis | Uit   | Tegenstander  | Uur
 ## Tornooien
 
 ## Uitslagen
+
 Datum   | Thuis | Uit   | Tegenstander  | Uitslag
 ---     |:---:  |:---:  |---            |---
 ?       |?      |?      |?              |? 
