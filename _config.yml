@@ -1,12 +1,12 @@
 title: MU20 Haacht
 description: >- # This is your site description
-  MU20 Haacht 
+  MU20 Haacht
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mu20-haacht.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Sujith Quintelier
   # email: sujith.quintelier@gmail.com
-  
+
 # Build settings
 markdown: kramdown
 theme: minima # or any other theme
@@ -18,7 +18,7 @@ header_pages:
   - staff/index.md
 
 minima:
-  skin: auto
+  skin: solarized # dark|classic|solarized-light|solarized-dark|auto|solarized
 
 
 # Architect
