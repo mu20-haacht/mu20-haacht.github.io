@@ -18,7 +18,7 @@ header_pages:
   # - staff/index.md
 
 minima:
-  skin: solarized # dark|classic|solarized-light|solarized-dark|auto|solarized
+  skin: solarized-dark # dark|classic|solarized-light|solarized-dark|auto|solarized
 
 
 # Architect
