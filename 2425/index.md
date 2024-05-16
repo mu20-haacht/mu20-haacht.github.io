@@ -6,7 +6,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU20 seiz
 
 ## Speelsters
 
-Voornaam | Naam | Deel 1 | Deel 2
+Voornaam | Naam | Sep-Dec | Jan-Apr
 ---|---
 Tessa	| Mertens | ✅ | ?
 Auke	| Marin | ✅ | ?
