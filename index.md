@@ -29,15 +29,15 @@ Woensdag    | Beverdijk   | 20.00
 
 ## Twizzit
 
-Gelieve op maandag Twizzit te updaten (2 trainingen en wedstijd). Op basis hiervan kan de trainer zich organiseren en worden de taken bepaald voor de volgende wedstrijd (kleedkamer en fruit). 
+Gelieve op zondag Twizzit te updaten (2 trainingen en wedstijd). Op basis hiervan kan de trainer zich organiseren en worden de taken bepaald voor de volgende wedstrijd (kleedkamer en fruit). 
 
 ## Wedstrijd Info
 
-> Voorlopige info: Thuiswedstijden op zondag om 10.00
+> Voorlopige info: Thuiswedstijden op zondag om 10.00 of uitzonderlijk op vrijdag om 20.30
 
 Wedstrijden zijn te volgen in de Twizzit app. 
 
-De speelsters dienen 1 uur voor aanvang van de wedstrijden ter plaatse te zijn bij een thuismatch, op verplaatsing 1 uur + reistijd(parking Sparta). Dit uur omvat 20 min omkleden, 10 min bespreking en opwarming.
+De speelsters dienen 1 uur voor aanvang van de wedstrijden ter plaatse te zijn bij een thuismatch, op verplaatsing 1 uur + reistijd(parking Sparta). Dit uur omvat 20 min omkleden, 10 min bespreking en de rest opwarming.
 
 Bij elke wedstrijd moet er fruit (appel/banaan/druiven/blauwe bessen/appelsien/...) voorzien worden en wordt een speler aangeduid om dat te doen: de ouders zorgen hiervoor.
 
@@ -53,14 +53,22 @@ De spelers krijgen bij thuiswedstrijden een drankbonnetje en hotdog aangeboden.
 
 > Gelieve steeds de Sparta uitrusting te dragen.
 
+### Selectie
+
+Dit jaar zijn we met 1 Keeper en 18 veldspelers. Dit wil zeggen dat er elke week een selectie zal gemaakt worden. Wat wil dit zeggen: in de eerste plaats is er de selectie voor de MU20, 1 Keeper, 11 starters, 4 vervangingen. Dus zijn er nog 4 die niet kunnen spelen voor MU20. Deze 4 kunnen meedoen bij ofwel de Redavo's of de P2 (Provinciale dames). Vandaar dat het belangrijk is om op zondagavond Twizzit in te vullen. Dan weten jullie dinsdag voor welke ploeg jullie dan het volgende weekend spelen. Uiteraard kan het nog wijzigen door ziekte of blessures. Elke speelster zal uiteindelijk op 15 matchen 3 of 4 keer niet kunnen spelen voor MU20.
+
+Voorbeeld planning
+
+![Planning](/2425/assets/voorbeeld-planning.png)
+
 ### GSM
 
-Gsm's worden **niet** toegelaten in de kleedkamers. Die worden verzameld of achtergelaten bij de ouders. Na de wedstrijd (douche) worden ze terugbezorgd. Enkel de kapitein mag haar GSM bijhouden voor muziek en is ook verantwoordelijk voor eventueel misbruik.
-
+Gsm's worden **NIET** toegelaten in de kleedkamers. Die worden verzameld door de délégué/trainer of achtergelaten bij de ouders. Na de wedstrijd (douche) worden ze terugbezorgd. Enkel de kapitein mag haar GSM bijhouden voor een streepje muziek en is dan ook verantwoordelijk voor eventueel misbruik.
 
 ## Scheidsrechter
 
 Aan de speelsters wordt gevraagd om 1 wedstrijd te fluiten voor volgende ploegen:
+
 * MU16 
 * U10 A
 * U10 B
