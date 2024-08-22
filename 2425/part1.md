@@ -3,9 +3,9 @@ layout: page
 title: Sep-Dec
 ---
 
-Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU20 seizoen 2024/2025 - Deel 1
+Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - Deel 1
 
-> All info is voorlopig.
+> Alle info is voorlopig.
 
 
 ## Volgende wedstrijd info

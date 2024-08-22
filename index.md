@@ -3,7 +3,28 @@ layout: home
 # title: Home pagina
 ---
 
-Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU20
+Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU20.
+
+## WhatsApp
+
+Alle communicatie wordt gedaan via WhatsApp en belangrijke wordt ook op deze site geplaatst.
+
+Er is een communitie en daaronder hangen 3 groepen + een speciale groep voor aankondigingen:
+
+In de groepen kan iedereen berichten plaatsen en reageren.
+
+In de aankondigingen kunnen enkel de admin iets doen. Dit is bedoeld om iets mee te delen zoals afgelasting van een training of iets dergelijks. Iets dat niet verloren mag gaan tussen de andere berichten.
+
+- MU20 ⚽
+  - MU20 ⚽ 2024-2025 (Speelsters)
+    - Speelsters en Trainers
+  - MU20 ⚽ 2024-2025 (Ouders)
+    - Ouders en Trainers
+  - MU20 ⚽ 2024-2025
+    - Speelsters, Trainers en Ouders
+  - Aankondigingen
+    - Admins
+
 
 ## Trainingen
 
