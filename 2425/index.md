@@ -39,7 +39,3 @@ Voornaam | Naam | Functie
  Marnix | Lahor | T2
  Pedro | Samyn | T2
  Sujith | Quintelier | Afgevaardigde
-
-## Afspraken
-
-### 

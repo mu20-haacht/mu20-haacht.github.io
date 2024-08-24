@@ -9,7 +9,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU20.
 
 Alle communicatie wordt gedaan via WhatsApp en belangrijke wordt ook op deze site geplaatst.
 
-Er is een communitie en daaronder hangen 3 groepen + een speciale groep voor aankondigingen:
+Er is een community en daaronder hangen 3 groepen + een speciale groep voor aankondigingen:
 
 In de groepen kan iedereen berichten plaatsen en reageren.
 
@@ -50,7 +50,7 @@ Woensdag    | Beverdijk   | 20.00
 
 ## Twizzit
 
-Gelieve op zondag Twizzit te updaten (2 trainingen en wedstijd). Op basis hiervan kan de trainer zich organiseren en worden de taken bepaald voor de volgende wedstrijd (kleedkamer en fruit). 
+Gelieve op zondag Twizzit te updaten (2 trainingen en wedstijd). Op basis hiervan kunnen de trainers zich organiseren en worden de taken bepaald voor de volgende wedstrijd (kleedkamer en fruit). 
 
 ## Wedstrijd Info
 
@@ -64,7 +64,7 @@ Bij elke wedstrijd moet er fruit (appel/banaan/druiven/blauwe bessen/appelsien/.
 
 Bij elke thuiswedstijd worden 2 spelers aangeduid om te kleedkamer op te ruimen.
 
-De spelers krijgen bij thuiswedstrijden een drankbonnetje en hotdog aangeboden.
+De spelers krijgen bij thuiswedstrijden een hotdog en drank aangeboden (geen individueel drankbonnetjes maar er worden een aantal grote flessen drank voorzien).
 
 > Tijdens de wedstrijd en pauzes blijven we als spelersgroep bij elkaar.
 
