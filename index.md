@@ -43,7 +43,7 @@ Mogelijke trainingslocaties
 
 Dag         | Waar        | Tijdstip
 ---         |---          |---
-Maandag     | Den Dijk    | 20.00
+Maandag     | Sparta.     | 20.00
 Woensdag    | Beverdijk   | 20.00
 
 ## Twizzit
