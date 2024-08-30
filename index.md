@@ -41,8 +41,6 @@ Mogelijke trainingslocaties
 
 ### Schema
 
-> Voorlopige info
-
 Dag         | Waar        | Tijdstip
 ---         |---          |---
 Maandag     | Den Dijk    | 20.00
@@ -76,7 +74,7 @@ De spelers krijgen bij thuiswedstrijden een hotdog en drank aangeboden (geen ind
 
 ### Selectie
 
-Dit jaar zijn we met 1 Keeper en 18 veldspelers. Dit wil zeggen dat er elke week een selectie zal gemaakt worden. Wat wil dit zeggen: in de eerste plaats is er de selectie voor de MU20, 1 Keeper, 11 starters, 4 vervangingen. Dus zijn er nog 4 die niet kunnen spelen voor MU20. Deze 4 kunnen meedoen bij ofwel de Redavo's of de P2 (Provinciale dames). Vandaar dat het belangrijk is om op zondagavond Twizzit in te vullen. Dan weten jullie dinsdag voor welke ploeg jullie dan het volgende weekend spelen. Uiteraard kan het nog wijzigen door ziekte of blessures. Elke speelster zal uiteindelijk op 15 matchen 3 of 4 keer niet kunnen spelen voor MU20.
+Dit jaar zijn we met 1 Keeper en 18 veldspelers. Dit wil zeggen dat er elke week een selectie zal gemaakt worden. Wat wil dit zeggen: in de eerste plaats is er de selectie voor de MU20, 1 Keeper, 11 starters, 4 vervangingen. Dus zijn er nog 4 die niet kunnen spelen voor MU20. Deze 4 kunnen meedoen bij ofwel de Redavo's of de P2 (Provinciale dames). Vandaar dat het belangrijk is om op zondagavond Twizzit in te vullen. Dan weten jullie woensdag na de training voor welke ploeg jullie dan het volgende weekend spelen. Uiteraard kan het nog wijzigen door ziekte of blessures. Elke speelster zal uiteindelijk op 15 matchen 3 of 4 keer niet kunnen spelen voor MU20.
 
 Voorbeeld planning
 
