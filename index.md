@@ -43,7 +43,7 @@ Mogelijke trainingslocaties
 
 Dag         | Waar        | Tijdstip
 ---         |---          |---
-Maandag     | Sparta.     | 20.00
+Maandag     | Sparta     | 20.00
 Woensdag    | Beverdijk   | 20.00
 
 ## Twizzit
@@ -100,7 +100,7 @@ Aan de speelsters wordt gevraagd om 1 wedstrijd te fluiten voor volgende ploegen
 Aan de speelsters wordt gevraagd mee te helpen met 1 event:
 
 * Eetdagen
-* Moosebar
+* Let's get loose bar
 * Tornooi
 * ...
 

@@ -19,7 +19,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU20 seiz
 09  |Julia	| Caluwaerts | ✅ | ❓ | ❓
 10  |Lisa	| Geuvens | ✅ | ❓ | 15
 11  |Lize	| Ver Eecke | ✅ | ❓ | 6
-12  |Lore	| Van noten | ✅ | ❓ | 1
+12  |Lore	| Van noten | ✅ | ❓ | 21
 13  |Margue	| Le Leu | ✅ | ❓ | 24
 14  |Marie	| Aerts | ✅ | ❓ | 13
 15  |Morane	| Vermunicht | ✅ | ❓ | 19
