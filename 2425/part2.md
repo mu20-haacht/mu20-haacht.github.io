@@ -11,13 +11,13 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU20 seiz
 
 Datum   | Thuis | Uit   | Tegenstander  | Uur
 ---     |:---:  |:---:  |---            | ---
-?       |?      |?      |?              | ?
+❓       |❓      |❓      |❓              | ❓
 
 ## Uitslagen
 
 Datum   | Thuis | Uit   | Tegenstander  | Uitslag
 ---     |:---:  |:---:  |---            |---
-?       |?      |?      |?              |? 
+❓       |❓      |❓      |❓              |❓ 
 
 ## Rangschikking
 
@@ -25,12 +25,12 @@ Datum   | Thuis | Uit   | Tegenstander  | Uitslag
 
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
 ---	    |	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
-?       | ?     | ?     | ?     | ?     | ?     | ?     | ?     | ? 
+❓       | ❓     | ❓     | ❓     | ❓     | ❓     | ❓     | ❓     | ❓ 
 
 ### Fruit & Was Schema
 
-Naam| ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ?
+Naam| ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓
 --- |---|---|---|---|---|---|---|---|---|---|---|---
-?   | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? 
+❓   | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ | ❓ 
 
 ## Tornooien

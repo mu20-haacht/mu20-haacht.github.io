@@ -8,28 +8,25 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU20 seiz
 
 \#  | Voornaam  | Naam  | Sep-Dec   | Jan-Apr   | Shirt \#
 --- |---        |---    |:---:      |:---:      |---
-01  |Auke | Marin | ✅ | ? | ?
-02  |Dee Dee	| Lahor | ✅ | ? | ?
-03  |Ella	| Van Loo | ✅ | ? | ?
-04  |Esmee	| Quintelier | ✅ | ? | ?
-05  |Febe	| Mattheus | ✅ | ? | ?
-06  |Féliz	| Lemmens | ✅ | ? | ?
-07  |Gitte	| Smits | ✅ | ? | ?
-08  |Imke	| Vermoesen | ✅ | ? | ?
-09  |Julia	| Caluwaerts | ✅ | ? | ?
-10  |Lisa	| Geuvens | ✅ | ? | ?
-11  |Lize	| Ver Eecke | ✅ | ? | ?
-12  |Lore	| Van noten | ✅ | ? | ?
-13  |Margue	| Le Leu | ✅ | ? | ?
-14  |Marie	| Aerts | ✅ | ? | ?
-15  |Morane	| Vermunicht | ✅ | ? | ?
-16  |Nina	| Vander Aerschot | ✅ | ? | ?
-17  |Tessa	| Mertens | ✅ | ? | ?
-18  |Tille	| Samyn | ✅ | ? | ?
-19  |Yanaika	| Liekens | ✅ | ? | ?
-
-<!-- Celine	| Salib | ✅ | ?
-Rhune	| De Cat | ✅ | ? -->
+01  |Auke | Marin | ✅ | ❓ | 26
+02  |Dee Dee	| Lahor | ✅ | ❓ | 12
+03  |Ella	| Van Loo | ✅ | ❓ | 18
+04  |Esmee	| Quintelier | ✅ | ❓ | 9
+05  |Febe	| Mattheus | ✅ | ❓ | 20
+06  |Féliz	| Lemmens | ✅ | ❓ | 22
+07  |Gitte	| Smits | ✅ | ❓ | 17
+08  |Imke	| Vermoesen | ✅ | ❓ | 8
+09  |Julia	| Caluwaerts | ✅ | ❓ | ❓
+10  |Lisa	| Geuvens | ✅ | ❓ | 15
+11  |Lize	| Ver Eecke | ✅ | ❓ | 6
+12  |Lore	| Van noten | ✅ | ❓ | 1
+13  |Margue	| Le Leu | ✅ | ❓ | 24
+14  |Marie	| Aerts | ✅ | ❓ | 13
+15  |Morane	| Vermunicht | ✅ | ❓ | 19
+16  |Nina	| Vander Aerschot | ✅ | ❓ | 28
+17  |Tessa	| Mertens | ✅ | ❓ | 14
+18  |Tille	| Samyn | ✅ | ❓ | 10
+19  |Yanaika	| Liekens | ✅ | ❓ | 5
 
 ## Staf
 
