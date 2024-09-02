@@ -7,22 +7,21 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 
 ## Volgende wedstrijd info
 
-> Volgende wedstrijd is op zondag 1 september thuis tegen K.SK. Heist om 10.00 (09.00 ter plaatse)
+> Volgende wedstrijd is op zaterdag 7 september tegen Groenenhoek om 14.45 (13.45 ter plaatse)
 
-> Fruit & was: Lore
+> Fruit & was: ?
 
-> Kleedkamers: Morane & Febe
+<!-- > Kleedkamers: ? & ? -->
 
-> Toogdienst: Inneke(Margue), Michael(Margue)
+<!-- > Toogdienst: Inneke(Margue), Michael(Margue) -->
 
-> Hotdog: Esmee & Yanaika
+<!-- > Hotdog: Esmee & Yanaika -->
 
 
 ## Resterende wedstrijden
 
 Datum   | Thuis | Uit   | Tegenstander  | Dag    | Uur
 ---     |:---:  |:---:  |---            | ---    | ---
-1 sep       | ✅      |       | K.SK. Heist              | zondag | 10.00
 7 sep       |        | ✅      | Groenenhoek              | zaterdag | 14.45
 15 sep      |        | ✅      | S.V. Grasheide           | zondag | 11.15
 22 sep      | ✅      |       | Football Girls Leuven B  | zondag | 10.00
@@ -42,7 +41,7 @@ Datum   | Thuis | Uit   | Tegenstander  | Dag    | Uur
 
 Datum   | Thuis | Uit   | Tegenstander  | Uitslag
 ---     |:---:  |:---:  |---            |---
-1 sep       | ✅      |       | K.SK. Heist              | ❓
+1 sep       | ✅      |       | K.SK. Heist              | **16-0**
 7 sep       |        | ✅      | Groenenhoek              | ❓
 15 sep      |        | ✅      | S.V. Grasheide           | ❓
 22 sep      | ✅      |       | Football Girls Leuven B  | ❓
@@ -64,13 +63,15 @@ Datum   | Thuis | Uit   | Tegenstander  | Uitslag
 ![Sparta](/2425/assets/ranking1.png)
 
 Team	|	PTS	|	M	|	W	|	V	|	G	|	+	|	-	|	+/-
----	    |	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
-**K.F.C. Sparta Haacht Tildonk**       | 0     | 0     | 0     | 0     | 0     | 0     | 0     | 0 
-K.SK. Heist       | 0     | 0     | 0     | 0     | 0     | 0     | 0     | 0
-Groenenhoek       | 0     | 0     | 0     | 0     | 0     | 0     | 0     | 0
-S.V. Grasheide       | 0     | 0     | 0     | 0     | 0     | 0     | 0     | 0
-Football Girls Leuven B       | 0     | 0     | 0     | 0     | 0     | 0     | 0     | 0
-Vremde       | 0     | 0     | 0     | 0     | 0     | 0     | 0     | 0
+---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---
+**Sparta**	|	3	|	1	|	1	|	0	|	0	|	16	|	0	|	16
+S.V. Grasheide	|	3	|	1	|	1	|	0	|	0	|	5	|	2	|	3
+Vremde	|	3	|	1	|	1	|	0	|	0	|	5	|	4	|	1
+Football Girls Leuven B	|	0	|	1	|	0	|	1	|	0	|	4	|	5	|	-1
+Groenenhoek	|	0	|	1	|	0	|	1	|	0	|	2	|	5	|	-3
+K.SK. Heist	|	0	|	1	|	0	|	1	|	0	|	0	|	16	|	-16
+
+
 
 ### Speel Schema
 
@@ -80,18 +81,18 @@ Naam    | 1 sep | 7 sep | 15 sep  | 22 sep  | 27 sep  | 5 okt | 13 okt  | 20 okt
 ---     |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 Auke    |✅❌      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
 Dee Dee	|✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Ella	  |❓      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Ella	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
 Esmee	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
 Febe	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Féliz	  |❓      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Féliz	  |❌      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
 Gitte	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Imke	  |❓      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Julia	  |❓      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Imke	  |❌      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Julia	  |❌      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
 Lisa	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
 Lize	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
 Lore	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
 Margue	|✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Marie	  |❓✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Marie	  |❌✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
 Morane	|✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
 Nina	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
 Tessa	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
@@ -200,7 +201,7 @@ Yanaika	|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
 
 > Voorlopige info
 
-Naam| 1 sep| 7 sep| ❓14 sep| 22 sep| 27 sep| 5 okt| 13 okt| 20 okt| 26 okt| 3 nov| 10 nov| 16 nov| 24 nov| 1 dec| 5 dec| ❓
+Naam| ❌ 1 sep| 7 sep| ❓14 sep| 22 sep| 27 sep| 5 okt| 13 okt| 20 okt| 26 okt| 3 nov| 10 nov| 16 nov| 24 nov| 1 dec| 5 dec| ❓
 --- |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 ⌛      |-|-|11.30|-|-|-|-|-|-|-|-|-|-|-|-|-
 Ploeg    |-|-|U10|-|-|-|-|-|-|-|-|-|-|-|-|-
@@ -228,3 +229,40 @@ Yanaika	|-|-|❓|-|-|-|-|-|-|-|-|-|-|-|-|-
 
 > Voorlopige info
 
+Datum   | Thuis | Uit   | Tegenstander  | Dag    | Uur
+---     |:---:  |:---:  |---            | ---    | ---
+7 sep       |        | ✅      | Groenenhoek              | zaterdag | 14.45
+15 sep      |        | ✅      | S.V. Grasheide           | zondag | 11.15
+22 sep      | ✅      |       | Football Girls Leuven B  | zondag | 10.00
+27 sep      |        | ✅      | Vremde                  | **vrijdag** | 20.30
+5 okt       | |✅            |K.SK. Heist              | zaterdag | 14.30
+13 okt       |✅|             |Groenenhoek              | zondag | 10.00
+20 okt       |✅|             |S.V. Grasheide           | zondag | 10.00
+26 okt       | |✅            |Football Girls Leuven B  | zaterdag| 10.00
+3 nov       |✅|             |Vremde  | zondag | 10.00
+10 nov       | ✅      |        | K.SK. Heist              | zondag | 10.00
+16 nov       |         | ✅      | Groenenhoek              | zaterdag | 14.45
+24 nov      |         | ✅      | S.V. Grasheide           | zondag | 11.15
+1 dec      | ✅      |        | Football Girls Leuven B  | zondag | 10.00
+5 dec      |         | ✅      | Vremde                  | **vrijdag** | 20.30
+
+### Dames
+
+> Voorlopige info
+
+Datum   | Thuis | Uit   | Tegenstander  | Dag    | Uur
+---     |:---:  |:---:  |---            | ---    | ---
+7 sep       |        | ✅      | Groenenhoek              | zaterdag | 14.45
+15 sep      |        | ✅      | S.V. Grasheide           | zondag | 11.15
+22 sep      | ✅      |       | Football Girls Leuven B  | zondag | 10.00
+27 sep      |        | ✅      | Vremde                  | **vrijdag** | 20.30
+5 okt       | |✅            |K.SK. Heist              | zaterdag | 14.30
+13 okt       |✅|             |Groenenhoek              | zondag | 10.00
+20 okt       |✅|             |S.V. Grasheide           | zondag | 10.00
+26 okt       | |✅            |Football Girls Leuven B  | zaterdag| 10.00
+3 nov       |✅|             |Vremde  | zondag | 10.00
+10 nov       | ✅      |        | K.SK. Heist              | zondag | 10.00
+16 nov       |         | ✅      | Groenenhoek              | zaterdag | 14.45
+24 nov      |         | ✅      | S.V. Grasheide           | zondag | 11.15
+1 dec      | ✅      |        | Football Girls Leuven B  | zondag | 10.00
+5 dec      |         | ✅      | Vremde                  | **vrijdag** | 20.30
