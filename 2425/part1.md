@@ -225,7 +225,7 @@ Tessa	  |-|-|❓|-|-|-|-|-|-|-|-|-|-|-|-|-
 Tille	  |-|-|❓|-|-|-|-|-|-|-|-|-|-|-|-|-
 Yanaika	|-|-|❓|-|-|-|-|-|-|-|-|-|-|-|-|-
 
-### All Stars Kalender
+<!-- ### All Stars Kalender
 
 > Voorlopige info
 
@@ -244,4 +244,4 @@ Datum   | Thuis | Uit   | Tegenstander  | Dag    | Uur
 16 nov       |         | ✅      | Groenenhoek              | zaterdag | 14.45
 24 nov      |         | ✅      | S.V. Grasheide           | zondag | 11.15
 1 dec      | ✅      |        | Football Girls Leuven B  | zondag | 10.00
-5 dec      |         | ✅      | Vremde                  | **vrijdag** | 20.30
+5 dec      |         | ✅      | Vremde                  | **vrijdag** | 20.30 -->
