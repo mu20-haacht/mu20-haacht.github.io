@@ -9,7 +9,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 
 > Volgende wedstrijd is op zaterdag 7 september tegen Groenenhoek om 14.45 (13.45 ter plaatse)
 
-> Fruit & was: ?
+> Fruit & was: Tessa
 
 <!-- > Kleedkamers: ? & ? -->
 
