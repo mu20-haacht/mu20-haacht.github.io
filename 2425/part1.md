@@ -22,7 +22,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 
 Datum   | Thuis | Uit   | Tegenstander  | Dag    | Uur
 ---     |:---:  |:---:  |---            | ---    | ---
-7 sep       |        | ✅      | Groenenhoek              | zaterdag | 14.45
+7 sep       |        | ✅      | [Groenenhoek](https://www.google.com/maps/place/K.+Groenenhoek+Sport/@51.194683,4.455304,1250m/data=!3m1!1e3!4m6!3m5!1s0x47c3f75c716f9749:0x19f6e17c5589868f!8m2!3d51.1946832!4d4.4553041!16s%2Fg%2F11b_01r76w?hl=nl&entry=ttu&g_ep=EgoyMDI0MDkwMi4xIKXMDSoASAFQAw%3D%3D)              | zaterdag | 14.45
 15 sep      |        | ✅      | S.V. Grasheide           | zondag | 11.15
 22 sep      | ✅      |       | Football Girls Leuven B  | zondag | 10.00
 27 sep      |        | ✅      | Vremde                  | **vrijdag** | 20.30
@@ -32,7 +32,7 @@ Datum   | Thuis | Uit   | Tegenstander  | Dag    | Uur
 26 okt       | |✅            |Football Girls Leuven B  | zaterdag| 10.00
 3 nov       |✅|             |Vremde  | zondag | 10.00
 10 nov       | ✅      |        | K.SK. Heist              | zondag | 10.00
-16 nov       |         | ✅      | Groenenhoek              | zaterdag | 14.45
+16 nov       |         | ✅      | [Groenenhoek](https://www.google.com/maps/place/K.+Groenenhoek+Sport/@51.194683,4.455304,1250m/data=!3m1!1e3!4m6!3m5!1s0x47c3f75c716f9749:0x19f6e17c5589868f!8m2!3d51.1946832!4d4.4553041!16s%2Fg%2F11b_01r76w?hl=nl&entry=ttu&g_ep=EgoyMDI0MDkwMi4xIKXMDSoASAFQAw%3D%3D)              | zaterdag | 14.45
 24 nov      |         | ✅      | S.V. Grasheide           | zondag | 11.15
 1 dec      | ✅      |        | Football Girls Leuven B  | zondag | 10.00
 5 dec      |         | ✅      | Vremde                  | **vrijdag** | 20.30
@@ -79,25 +79,25 @@ K.SK. Heist	|	0	|	1	|	0	|	1	|	0	|	0	|	16	|	-16
 
 Naam    | 1 sep | 7 sep | 15 sep  | 22 sep  | 27 sep  | 5 okt | 13 okt  | 20 okt  | 26 okt  | 3 nov | 10 nov  | 16 nov  | 24 nov  | 1 dec | 5 dec | ❓
 ---     |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-Auke    |✅❌      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Dee Dee	|✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Ella	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Esmee	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Febe	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Féliz	  |❌      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Gitte	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Imke	  |❌      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Julia	  |❌      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Lisa	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Lize	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Lore	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Margue	|✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Marie	  |❌✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Morane	|✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Nina	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Tessa	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Tille	  |✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
-Yanaika	|✅      |-      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Auke    |✅❌      |✅❌      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Dee Dee	|✅         |✅❌      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Ella	  |✅      |✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Esmee	  |✅      |❌      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Febe	  |✅      |✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Féliz	  |❌      |✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Gitte	  |✅      |✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Imke	  |❌      |✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Julia	  |❌      |✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Lisa	  |✅      |❌✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Lize	  |✅      |✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Lore	  |✅      |✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Margue	|✅         |❌      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Marie	  |❌✅     |✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Morane	|✅         |❌✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Nina	  |✅      |✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Tessa	  |✅      |✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Tille	  |✅      |✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
+Yanaika	|✅      |✅      |-        |-        |-        |-      |-        |-        |-        |-      |-        |-        |-        |-      |-      |-
 
 ### Fruit & Was Schema
 
@@ -119,7 +119,7 @@ Margue	|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
 Marie	  |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
 Morane	|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
 Nina	  |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
-Tessa	  |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
+Tessa	  |-|✅|-|-|-|-|-|-|-|-|-|-|-|-|-|-
 Tille	  |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
 Yanaika	|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
 
@@ -226,27 +226,6 @@ Tille	  |-|-|❓|-|-|-|-|-|-|-|-|-|-|-|-|-
 Yanaika	|-|-|❓|-|-|-|-|-|-|-|-|-|-|-|-|-
 
 ### All Stars Kalender
-
-> Voorlopige info
-
-Datum   | Thuis | Uit   | Tegenstander  | Dag    | Uur
----     |:---:  |:---:  |---            | ---    | ---
-7 sep       |        | ✅      | Groenenhoek              | zaterdag | 14.45
-15 sep      |        | ✅      | S.V. Grasheide           | zondag | 11.15
-22 sep      | ✅      |       | Football Girls Leuven B  | zondag | 10.00
-27 sep      |        | ✅      | Vremde                  | **vrijdag** | 20.30
-5 okt       | |✅            |K.SK. Heist              | zaterdag | 14.30
-13 okt       |✅|             |Groenenhoek              | zondag | 10.00
-20 okt       |✅|             |S.V. Grasheide           | zondag | 10.00
-26 okt       | |✅            |Football Girls Leuven B  | zaterdag| 10.00
-3 nov       |✅|             |Vremde  | zondag | 10.00
-10 nov       | ✅      |        | K.SK. Heist              | zondag | 10.00
-16 nov       |         | ✅      | Groenenhoek              | zaterdag | 14.45
-24 nov      |         | ✅      | S.V. Grasheide           | zondag | 11.15
-1 dec      | ✅      |        | Football Girls Leuven B  | zondag | 10.00
-5 dec      |         | ✅      | Vremde                  | **vrijdag** | 20.30
-
-### Dames
 
 > Voorlopige info
 
