@@ -13,10 +13,10 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor de MU20 seiz
 03  |Ella	| Van Loo | ✅ | ❓ | 18
 04  |Esmee	| Quintelier | ✅ | ❓ | 9
 05  |Febe	| Mattheus | ✅ | ❓ | 20
-06  |Féliz	| Lemmens | ✅ | ❓ | 22
+06  |Féliz	| Lemmens | ✅ | ❓ | 2
 07  |Gitte	| Smits | ✅ | ❓ | 17
 08  |Imke	| Vermoesen | ✅ | ❓ | 8
-09  |Julia	| Caluwaerts | ✅ | ❓ | ❓
+09  |Julia	| Caluwaerts | ✅ | ❓ | 3
 10  |Lisa	| Geuvens | ✅ | ❓ | 15
 11  |Lize	| Ver Eecke | ✅ | ❓ | 6
 12  |Lore	| Van noten | ✅ | ❓ | 21
