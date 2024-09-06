@@ -11,6 +11,32 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 
 > Fruit & was: Tessa
 
+Selectie|
+---
+Lore(G)
+Tessa
+Febe
+Féliz
+Morane
+Nina(K)
+Julia
+Marie
+Lisa
+Ella
+Imke
+Gitte
+Margue
+Lize
+Yanaika
+
+Gaan niet mee|
+---
+Dee Dee (Geblesseerd)
+Esmee (Geblesseerd)
+Auke (Geblesseerd)
+Tille (Geblesseerd)
+
+
 <!-- > Kleedkamers: ? & ? -->
 
 <!-- > Toogdienst: Inneke(Margue), Michael(Margue) -->
