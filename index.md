@@ -105,3 +105,22 @@ Aan de speelsters wordt gevraagd mee te helpen met 1 event:
 * ...
 
 > Meer info volgt
+
+
+## Tussenkomst ziekenfonds
+
+Sporten is gezond. Daarom geven onderstaande ziekenfondsen per persoon een tegemoetkoming wanneer je aangesloten bent bij een sportclub.
+
+Meestal kan je een document downloaden.
+Print het af, vul je persoonlijke gegevens in en bezorg het document aan je délégé of Wouter.
+De club vult aan en bezorgt je het document terug.
+Afhankelijk van het ziekendfonds kan je het uploaden of bezorg je het zelf in een lokaal kantoor of stuur je het op.
+
+Ziekenfonds | Site
+---|---
+CM-Christelijke Mutualiteit | https://www.cm.be/nl/diensten-en-voordelen/sportvereniging
+LM-Liberale Mutualiteit| https://www.lm-ml.be/nl/voordelen-en-diensten/lm-mutplusbe-terugbetaling-sport
+Helan| https://www.helan.be/nl/ons-aanbod/ziekenfonds/voordelen-en-terugbetalingen/sportclub-lidgeld/
+Solidaris-Socialistische Mutualiteit| https://www.solidaris-vlaanderen.be/terugbetaling-sport#no-back
+VNZ-Vlaams en Neutraal Ziekendfonds| https://www.vnz.be/voordelen-terugbetalingen/sport-fitnessclub/
+NZVL-Neutraal Ziekenfonds Vlaanderen|https://www.nzvl.be/ons-aanbod/ziekenfonds/diensten-en-voordelen-van-a-z/sport-en-medische-sportkeuring
