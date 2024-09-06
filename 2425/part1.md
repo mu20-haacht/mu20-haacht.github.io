@@ -9,33 +9,34 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 
 > Volgende wedstrijd is op zaterdag 7 september tegen Groenenhoek om 14.45 (13.45 ter plaatse)
 
-> Fruit & was: Tessa
+Selectie|Opmerking
+---|---
+Féliz	|	
+Julia	|	
+Yanaika	|	
+Lize	|	
+Imke	|	
+Marie	|	
+Tessa	|	🍏Fruit en 🧺 Was
+Lisa	|	
+Gitte	|	
+Ella	|	
+Morane	|	
+Febe	|	
+Lore	|	🧤Keeper
+Margue	|	
+Nina	|	⭐Kapitein
 
-Selectie|
----
-Lore(G)
-Tessa
-Febe
-Féliz
-Morane
-Nina(K)
-Julia
-Marie
-Lisa
-Ella
-Imke
-Gitte
-Margue
-Lize
-Yanaika
+Gaan niet mee|Opmerking
+---|---
+Dee Dee|⚕️Geblesseerd
+Esmee|⚕️Geblesseerd
+Auke|⚕️Geblesseerd
+Tille|⚕️Geblesseerd
 
-Gaan niet mee|
----
-Dee Dee (Geblesseerd)
-Esmee (Geblesseerd)
-Auke (Geblesseerd)
-Tille (Geblesseerd)
-
+<!-- 🍏Fruit en 🧺 Was
+🧤Keeper
+⭐Kapitein -->
 
 <!-- > Kleedkamers: ? & ? -->
 
