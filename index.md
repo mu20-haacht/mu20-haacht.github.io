@@ -118,9 +118,9 @@ Afhankelijk van het ziekendfonds kan je het uploaden of bezorg je het zelf in ee
 
 Ziekenfonds | Site
 ---|---
-CM-Christelijke Mutualiteit | https://www.cm.be/nl/diensten-en-voordelen/sportvereniging
-LM-Liberale Mutualiteit| https://www.lm-ml.be/nl/voordelen-en-diensten/lm-mutplusbe-terugbetaling-sport
-Helan| https://www.helan.be/nl/ons-aanbod/ziekenfonds/voordelen-en-terugbetalingen/sportclub-lidgeld/
-Solidaris-Socialistische Mutualiteit| https://www.solidaris-vlaanderen.be/terugbetaling-sport#no-back
-VNZ-Vlaams en Neutraal Ziekendfonds| https://www.vnz.be/voordelen-terugbetalingen/sport-fitnessclub/
-NZVL-Neutraal Ziekenfonds Vlaanderen|https://www.nzvl.be/ons-aanbod/ziekenfonds/diensten-en-voordelen-van-a-z/sport-en-medische-sportkeuring
+CM-Christelijke Mutualiteit | [link](https://www.cm.be/nl/diensten-en-voordelen/sportvereniging) https://www.cm.be/nl/diensten-en-voordelen/sportvereniging
+LM-Liberale Mutualiteit| [link](https://www.lm-ml.be/nl/voordelen-en-diensten/lm-mutplusbe-terugbetaling-sport) https://www.lm-ml.be/nl/voordelen-en-diensten/lm-mutplusbe-terugbetaling-sport
+Helan| [link](https://www.helan.be/nl/ons-aanbod/ziekenfonds/voordelen-en-terugbetalingen/sportclub-lidgeld/) https://www.helan.be/nl/ons-aanbod/ziekenfonds/voordelen-en-terugbetalingen/sportclub-lidgeld/
+Solidaris-Socialistische Mutualiteit| [link](https://www.solidaris-vlaanderen.be/terugbetaling-sport#no-back) https://www.solidaris-vlaanderen.be/terugbetaling-sport#no-back
+VNZ-Vlaams en Neutraal Ziekendfonds| [link](https://www.vnz.be/voordelen-terugbetalingen/sport-fitnessclub/) https://www.vnz.be/voordelen-terugbetalingen/sport-fitnessclub/
+NZVL-Neutraal Ziekenfonds Vlaanderen| [link](https://www.nzvl.be/ons-aanbod/ziekenfonds/diensten-en-voordelen-van-a-z/sport-en-medische-sportkeuring) https://www.nzvl.be/ons-aanbod/ziekenfonds/diensten-en-voordelen-van-a-z/sport-en-medische-sportkeuring
