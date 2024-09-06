@@ -68,7 +68,7 @@ Datum   | Thuis | Uit   | Tegenstander  | Dag    | Uur
 
 Datum   | Thuis | Uit   | Tegenstander  | Uitslag
 ---     |:---:  |:---:  |---            |---
-1 sep       | ✅      |       | K.SK. Heist              | **16-0**
+1 sep       | ✅      |       | K.SK. Heist              | 🏆**16-0**
 7 sep       |        | ✅      | Groenenhoek              | ❓
 15 sep      |        | ✅      | S.V. Grasheide           | ❓
 22 sep      | ✅      |       | Football Girls Leuven B  | ❓
@@ -84,6 +84,9 @@ Datum   | Thuis | Uit   | Tegenstander  | Uitslag
 1 dec      | ✅      |        | Football Girls Leuven B  | ❓
 5 dec      |         | ✅      | Vremde                  | ❓
 
+<!-- 🏆
+⚖️
+⬇️ -->
 
 ## Rangschikking
 
