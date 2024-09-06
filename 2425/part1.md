@@ -50,7 +50,7 @@ Tille|⚕️Geblesseerd
 Datum   | Thuis | Uit   | Tegenstander  | Dag    | Uur
 ---     |:---:  |:---:  |---            | ---    | ---
 7 sep       |        | ✅      | [Groenenhoek](https://www.google.com/maps/place/K.+Groenenhoek+Sport/@51.194683,4.455304,1250m/data=!3m1!1e3!4m6!3m5!1s0x47c3f75c716f9749:0x19f6e17c5589868f!8m2!3d51.1946832!4d4.4553041!16s%2Fg%2F11b_01r76w?hl=nl&entry=ttu&g_ep=EgoyMDI0MDkwMi4xIKXMDSoASAFQAw%3D%3D)              | zaterdag | 14.45
-15 sep      |        | ✅      | [S.V. Grasheide](https://www.google.com/maps/dir/50.9633571,4.6060733/Galeistraat+5a,+2580+Putte/@51.0025639,4.5295929,20084m/data=!3m2!1e3!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x47c158867ffab109:0x94776ad0dff81be1!2m2!1d4.6506754!2d51.0401053?entry=ttu&g_ep=EgoyMDI0MDkwMi4xIKXMDSoASAFQAw%3D%3D)           | zondag | 11.15
+15 sep      |        | ✅      | [S.V. Grasheide](https://www.google.com/maps/dir/50.9633571,4.6060733/Galeistraat+5a,+2580+Putte/@51.0025639,4.5295929,20084m/data=!3m2!1e3!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x47c158867ffab109:0x94776ad0dff81be1!2m2!1d4.6506754!2d51.0401053?entry=ttu&g_ep=EgoyMDI0MDkwMi4xIKXMDSoASAFQAw%3D%3D)           | zondag | 10.00
 22 sep      | ✅      |       | Football Girls Leuven B  | zondag | 10.00
 27 sep      |        | ✅      | [Vremde](https://www.google.com/maps/dir/?api=1&destination=Vremdesesteenweg%20224+2530+Boechout)                  | **vrijdag** | 20.30
 5 okt       | |✅            |[K.SK. Heist](https://www.google.com/maps?ll=51.066819,4.733734&z=16&t=m&hl=nl&gl=US&mapclient=embed&cid=14429946998776962015)              | zaterdag | 14.30
