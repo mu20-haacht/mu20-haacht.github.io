@@ -27,12 +27,12 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | Nina     | ⭐Kapitein ✅        |
 | Yanaika  | ✅                   |
 | Auke     | Opgevist ❌✅        |
-| Tille    | Opgevist ❌✅        |
 | Tessa    | Opgevist ❌✅        |
+| Dee_Dee  | Opgevist ❌✅        |
 
 | Gaan niet mee | Opmerking    |
 | ------------- | ------------ |
-| Dee_Dee       | MU16? ❌     |
+| Tille         | ❌           |
 | Marie         | Afwezig ✅❌ |
 | Julia         | Afwezig ✅❌ |
 | Lisa          | Afwezig ✅❌ |
@@ -109,7 +109,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | Naam    | 1 sep | 7 sep | 15 sep     | 22 sep | 27 sep | 5 okt | 13 okt | 20 okt | 26 okt | 3 nov | 10 nov | 16 nov | 24 nov | 1 dec | 5 dec | ❓  |
 | ------- | ----- | ----- | ---------- | ------ | ------ | ----- | ------ | ------ | ------ | ----- | ------ | ------ | ------ | ----- | ----- | --- |
 | Auke    | ✅⚕️  | ✅❌  | ❌✅       | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Dee Dee | ✅    | ✅❌  | ❌ -> MU16 | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Dee Dee | ✅    | ✅❌  | ❌✅ | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Ella    | ✅    | ✅    | ✅         | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Esmee   | ✅    | ❌⚕️  | ✅         | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Febe    | ✅    | ✅    | ✅         | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
@@ -125,7 +125,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | Morane  | ✅    | ❌✅  | ✅         | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Nina    | ✅    | ✅    | ✅         | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Tessa   | ✅    | ✅    | ❌✅       | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Tille   | ✅    | ✅⚕️  | ❌✅       | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Tille   | ✅    | ✅⚕️  | ❌       | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Yanaika | ✅    | ✅    | ✅         | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 
 ### Fruit & Was Schema
