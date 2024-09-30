@@ -7,12 +7,12 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 
 ## Volgende wedstrijd info
 
-> Volgende wedstrijd is thuis op zondag 22 september tegen Football Girls Leuven om 10.00 (09.00 ter plaatse)
+<!-- > Volgende wedstrijd is thuis op zondag 22 september tegen Football Girls Leuven om 10.00 (09.00 ter plaatse) -->
 
-<!-- > Volgende wedstrijd is op zondag 15 september tegen Grasheide om 10.00 (09.00 ter plaatse)
-> <br>[Adres](https://www.google.com/maps/dir/50.9633571,4.6060733/Galeistraat+5a,+2580+Putte/@51.0073582,4.4074975,40163m/data=!3m2!1e3!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x47c158867ffab109:0x94776ad0dff81be1!2m2!1d4.6506754!2d51.0401053?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D):
-> <br>Galeistraat 5a
-> <br>2580 Putte -->
+> Volgende wedstrijd is op zondag 5 oktober tegen K.SK. Heist om 10.00 (09.00 ter plaatse)
+> <br>[Adres](https://www.google.com/maps?ll=51.066819,4.733734&z=16&t=m&hl=nl&gl=US&mapclient=embed&cid=14429946998776962015):
+> <br>Lostraat 50
+> <br>2220 Heist-op-den-Berg
 
 | Selectie | Opmerking |
 | -------- | --------- |
@@ -24,9 +24,11 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 
 > Nog niet bekend
 
-<!-- 🍏Fruit en 🧺 Was
+<!--
+🍏Fruit
 🧤Keeper
-⭐Kapitein -->
+⭐Kapitein
+-->
 
 <!-- > Kleedkamers: ? & ? -->
 
@@ -39,8 +41,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | Datum  | Thuis | Uit | Tegenstander                                                                                                                                                                                                                                                                                      | Dag         | Uur   |
 | ------ | :---: | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----- |
 | 22 sep |  ✅   |     | Football Girls Leuven B                                                                                                                                                                                                                                                                           | zondag      | 10.00 |
-| 27 sep |       | ✅  | [Vremde](https://www.google.com/maps/dir/?api=1&destination=Vremdesesteenweg%20224+2530+Boechout)                                                                                                                                                                                                 | **vrijdag** | 20.30 |
-| 5 okt  |       | ✅  | [K.SK. Heist](https://www.google.com/maps?ll=51.066819,4.733734&z=16&t=m&hl=nl&gl=US&mapclient=embed&cid=14429946998776962015)                                                                                                                                                                    | zaterdag    | 14.30 |
+| 5 okt  |       | ✅  | [K.SK. Heist](https://www.google.com/maps?ll=51.066819,4.733734&z=16&t=m&hl=nl&gl=US&mapclient=embed&cid=14429946998776962015)                                                                                                                                                                    | zaterdag    | 12.30 |
 | 13 okt |  ✅   |     | Groenenhoek                                                                                                                                                                                                                                                                                       | zondag      | 10.00 |
 | 20 okt |  ✅   |     | S.V. Grasheide                                                                                                                                                                                                                                                                                    | zondag      | 10.00 |
 | 26 okt |       | ✅  | [Football Girls Leuven B](https://www.google.com/maps/dir/?api=1&destination=Eikestraat+3020+Winksele)                                                                                                                                                                                            | zaterdag    | 10.00 |
@@ -50,6 +51,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | 24 nov |       | ✅  | [S.V. Grasheide](https://www.google.com/maps/dir/50.9633571,4.6060733/Galeistraat+5a,+2580+Putte/@51.0025639,4.5295929,20084m/data=!3m2!1e3!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x47c158867ffab109:0x94776ad0dff81be1!2m2!1d4.6506754!2d51.0401053?entry=ttu&g_ep=EgoyMDI0MDkwMi4xIKXMDSoASAFQAw%3D%3D) | zondag      | 11.15 |
 | 1 dec  |  ✅   |     | Football Girls Leuven B                                                                                                                                                                                                                                                                           | zondag      | 10.00 |
 | 5 dec  |       | ✅  | [Vremde](https://www.google.com/maps/dir/?api=1&destination=Vremdesesteenweg%20224+2530+Boechout)                                                                                                                                                                                                 | **vrijdag** | 20.30 |
+| 14 dec |       | ✅  | [Vremde](https://www.google.com/maps/dir/?api=1&destination=Vremdesesteenweg%20224+2530+Boechout)                                                                                                                                                                                                 | zaterdag    | 14.30 |
 
 ## Uitslagen
 
@@ -58,8 +60,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | 1 sep  |  ✅   |     | K.SK. Heist             | 🏆16-0  |
 | 7 sep  |       | ✅  | Groenenhoek             | ⚖️1-1   |
 | 15 sep |       | ✅  | S.V. Grasheide          | ⬇️5-0   |
-| 22 sep |  ✅   |     | Football Girls Leuven B | ❓      |
-| 27 sep |       | ✅  | Vremde                  | ❓      |
+| 22 sep |  ✅   |     | Football Girls Leuven B | ⬇️11-2  |
 | 5 okt  |       | ✅  | K.SK. Heist             | ❓      |
 | 13 okt |  ✅   |     | Groenenhoek             | ❓      |
 | 20 okt |  ✅   |     | S.V. Grasheide          | ❓      |
@@ -70,6 +71,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | 24 nov |       | ✅  | S.V. Grasheide          | ❓      |
 | 1 dec  |  ✅   |     | Football Girls Leuven B | ❓      |
 | 5 dec  |       | ✅  | Vremde                  | ❓      |
+| 14 dec |       | ✅  | Vremde                  | ❓      |
 
 <!-- 🏆
 ⚖️
@@ -93,8 +95,8 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | Naam    | 1 sep | 7 sep | 15 sep | 22 sep | 27 sep | 5 okt | 13 okt | 20 okt | 26 okt | 3 nov | 10 nov | 16 nov | 24 nov | 1 dec | 5 dec | Totaal |
 | ------- | :---: | :---: | :----: | :----: | :----: | :---: | :----: | :----: | :----: | :---: | :----: | :----: | :----: | :---: | :---: | :----: |
 | Lisa    |   3   |       |        |        |        |       |        |        |        |       |        |        |        |       |       |   3    |
-| Marie   |   3   |       |        |        |        |       |        |        |        |       |        |        |        |       |       |   3    |
-| Ella    |   2   |       |        |        |        |       |        |        |        |       |        |        |        |       |       |   2    |
+| Marie   |   3   |       |        |   1    |        |       |        |        |        |       |        |        |        |       |       |   3    |
+| Ella    |   2   |       |        |   1    |        |       |        |        |        |       |        |        |        |       |       |   2    |
 | Esmee   |   2   |       |        |        |        |       |        |        |        |       |        |        |        |       |       |   2    |
 | Gitte   |   2   |       |        |        |        |       |        |        |        |       |        |        |        |       |       |   2    |
 | Féliz   |       |   1   |        |        |        |       |        |        |        |       |        |        |        |       |       |   1    |
@@ -111,55 +113,55 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | Morane  |       |       |        |        |        |       |        |        |        |       |        |        |        |       |       |   0    |
 | Tessa   |       |       |        |        |        |       |        |        |        |       |        |        |        |       |       |   0    |
 | Yanaika |       |       |        |        |        |       |        |        |        |       |        |        |        |       |       |   0    |
-| Totaal  |  16   |   1   |        |        |        |       |        |        |        |       |        |        |        |       |       |   17   |
+| Totaal  |  16   |   1   |        |   2    |        |       |        |        |        |       |        |        |        |       |       |   19   |
 
 ### Speel Schema
 
 > De niet geselecteerden kunnen meespelen bij All Stars of Dames (P2) of MU16 (Enkel speelgerechtigden)
 
-| Naam    | 1 sep | 7 sep | 15 sep | 22 sep | 27 sep | 5 okt | 13 okt | 20 okt | 26 okt | 3 nov | 10 nov | 16 nov | 24 nov | 1 dec | 5 dec | ❓  |
-| ------- | ----- | ----- | ------ | ------ | ------ | ----- | ------ | ------ | ------ | ----- | ------ | ------ | ------ | ----- | ----- | --- |
-| Auke    | ✅⚕️  | ✅❌  | ❌✅   | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Dee Dee | ✅    | ✅❌  | ❌✅   | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Ella    | ✅    | ✅    | ✅     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Esmee   | ✅    | ❌⚕️  | ✅     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Febe    | ✅    | ✅    | ✅     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Féliz   | ❌    | ✅    | ✅     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Gitte   | ✅    | ✅    | ✅     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Imke    | ❌    | ✅    | ✅     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Julia   | ❌    | ✅    | ✅❌   | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Lisa    | ✅    | ❌✅  | ✅❌   | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Lize    | ✅    | ✅    | ✅     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Lore    | ✅    | ✅    | ✅     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Margue  | ✅    | ❌✅  | ✅     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Marie   | ❌✅  | ✅    | ✅❌   | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Morane  | ✅    | ❌✅  | ✅     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Nina    | ✅    | ✅    | ✅     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Tessa   | ✅    | ✅    | ❌✅   | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Tille   | ✅    | ✅⚕️  | ❌     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Yanaika | ✅    | ✅    | ✅     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Naam    | 1 sep  | 7 sep  | 15 sep | 22 sep | 14 dec | 5 okt | 13 okt | 20 okt | 26 okt | 3 nov | 10 nov | 16 nov | 24 nov | 1 dec | 5 dec | ❓  |
+| ------- | ------ | ------ | ------ | ------ | ------ | ----- | ------ | ------ | ------ | ----- | ------ | ------ | ------ | ----- | ----- | --- |
+| Auke    | ✅⚕️❌ | ✅❌   | ❌✅   | ✅     | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Dee Dee | ✅     | ✅❌   | ❌✅   | ✅     | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Ella    | ✅     | ✅     | ✅     | ✅     | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Esmee   | ✅     | ❌⚕️❌ | ✅     | ✅⚕️❌ | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Febe    | ✅     | ✅     | ✅     | ❌✅   | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Féliz   | ❌     | ✅     | ✅     | ✅     | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Gitte   | ✅     | ✅     | ✅     | ❌✅   | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Imke    | ❌     | ✅     | ✅     | ✅     | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Julia   | ❌     | ✅     | ✅❌   | ✅⚕️❌ | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Lisa    | ✅     | ❌✅   | ✅❌   | ✅⚕️❌ | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Lize    | ✅     | ✅     | ✅     | ❌⚕️❌ | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Lore    | ✅     | ✅     | ✅     | ✅     | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Margue  | ✅     | ❌✅   | ✅     | ✅     | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Marie   | ❌✅   | ✅     | ✅❌   | ✅     | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Morane  | ✅     | ❌✅   | ✅     | ✅⚕️❌ | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Nina    | ✅     | ✅     | ✅     | ✅⚕️❌ | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Tessa   | ✅     | ✅     | ❌✅   | ✅     | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Tille   | ✅     | ✅⚕️❌ | ❌     | ✅⚕️❌ | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Yanaika | ✅     | ✅     | ✅     | ❌✅   | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 
 ### Fruit & Was Schema
 
-| Naam    | 1 sep | 7 sep | 15 sep | 22 sep | 27 sep | 5 okt | 13 okt | 20 okt | 26 okt | 3 nov | 10 nov | 16 nov | 24 nov | 1 dec | 5 dec | ❓  |
+| Naam    | 1 sep | 7 sep | 15 sep | 22 sep | 14 dec | 5 okt | 13 okt | 20 okt | 26 okt | 3 nov | 10 nov | 16 nov | 24 nov | 1 dec | 5 dec | ❓  |
 | ------- | ----- | ----- | ------ | ------ | ------ | ----- | ------ | ------ | ------ | ----- | ------ | ------ | ------ | ----- | ----- | --- |
+| Lore    | ✅    | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Tessa   | -     | ✅    | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Morane  | -     | -     | ✅     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Féliz   | -     | -     | -      | ✅     | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
+| Imke    | -     | -     | -      | -      | ✅     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Auke    | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Dee Dee | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Ella    | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Esmee   | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Febe    | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Féliz   | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Gitte   | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Imke    | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Julia   | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Lisa    | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Lize    | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Lore    | ✅    | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Margue  | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Marie   | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Morane  | -     | -     | ✅     | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Nina    | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
-| Tessa   | -     | ✅    | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Tille   | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 | Yanaika | -     | -     | -      | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     | -   |
 
@@ -174,7 +176,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | Febe    | ✅    | -      | -      | -      | -     | -      | -     | -   |
 | Féliz   | -     | -      | -      | -      | -     | -      | -     | -   |
 | Gitte   | -     | -      | -      | -      | -     | -      | -     | -   |
-| Imke    | -     | -      | -      | -      | -     | -      | -     | -   |
+| Imke    | -     | ✅     | -      | -      | -     | -      | -     | -   |
 | Julia   | -     | -      | -      | -      | -     | -      | -     | -   |
 | Lisa    | -     | -      | -      | -      | -     | -      | -     | -   |
 | Lize    | -     | -      | -      | -      | -     | -      | -     | -   |
@@ -185,7 +187,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | Nina    | -     | -      | -      | -      | -     | -      | -     | -   |
 | Tessa   | -     | -      | -      | -      | -     | -      | -     | -   |
 | Tille   | -     | -      | -      | -      | -     | -      | -     | -   |
-| Yanaika | -     | -      | -      | -      | -     | -      | -     | -   |
+| Yanaika | -     | ✅     | -      | -      | -     | -      | -     | -   |
 
 ### Hotdogs
 
@@ -220,7 +222,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | Ella    | -     | -      | -      | -      | -     | -      | -     | -   |
 | Esmee   | -     | -      | -      | -      | -     | -      | -     | -   |
 | Febe    | -     | -      | -      | -      | -     | -      | -     | -   |
-| Féliz   | -     | ✅      | -      | -      | -     | -      | -     | -   |
+| Féliz   | -     | ✅     | -      | -      | -     | -      | -     | -   |
 | Gitte   | -     | -      | -      | -      | -     | -      | -     | -   |
 | Imke    | -     | -      | -      | -      | -     | -      | -     | -   |
 | Julia   | -     | -      | -      | -      | -     | -      | -     | -   |
@@ -232,14 +234,14 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | Morane  | -     | -      | -      | -      | -     | -      | -     | -   |
 | Nina    | -     | -      | -      | -      | -     | -      | -     | -   |
 | Tessa   | -     | -      | -      | -      | -     | -      | -     | -   |
-| Tille   | -     | ✅      | -      | -      | -     | -      | -     | -   |
+| Tille   | -     | ✅     | -      | -      | -     | -      | -     | -   |
 | Yanaika | -     | -      | -      | -      | -     | -      | -     | -   |
 
 ### Scheidsrechter
 
 > Voorlopige info
 
-| Naam    | ❌ 1 sep | 7 sep | 14 sep | 22 sep | 27 sep | 5 okt | 13 okt | 20 okt | 26 okt | 3 nov | 10 nov | 16 nov | 24 nov | 1 dec | 5 dec |
+| Naam    | ❌ 1 sep | 7 sep | 14 sep | 22 sep | 14 dec | 5 okt | 13 okt | 20 okt | 26 okt | 3 nov | 10 nov | 16 nov | 24 nov | 1 dec | 5 dec |
 | ------- | -------- | ----- | ------ | ------ | ------ | ----- | ------ | ------ | ------ | ----- | ------ | ------ | ------ | ----- | ----- |
 | ⌛      | -        | -     | 11.30  | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     |
 | Ploeg   | -        | -     | U10    | -      | -      | -     | -      | -      | -      | -     | -      | -      | -      | -     | -     |
