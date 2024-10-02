@@ -102,12 +102,12 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 
 | Team                    | PTS | M   | W   | V   | G   | +   | -   | +/- |
 | ----------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| S.V. Grasheide          | 9   | 3   | 3   | 0   | 0   | 14  | 2   | 12  |
-| Football Girls Leuven B | 6   | 3   | 2   | 1   | 0   | 16  | 8   | 8   |
-| Sparta                  | 4   | 3   | 1   | 1   | 1   | 17  | 6   | 11  |
-| Vremde                  | 3   | 2   | 1   | 1   | 0   | 5   | 8   | -3  |
-| Groenenhoek             | 1   | 3   | 0   | 2   | 1   | 5   | 10  | -5  |
-| K.SK. Heist             | 0   | 2   | 0   | 2   | 0   | 1   | 24  | -23 |
+| Football Girls Leuven B | 9   | 5   | 3   | 1   | 1   | 28  | 12  | 16  |
+| S.V. Grasheide          | 9   | 4   | 3   | 0   | 1   | 16  | 3   | 13  |
+| Vremde                  | 9   | 4   | 3   | 1   | 0   | 17  | 9   | 8   |
+| Groenenhoek             | 4   | 5   | 1   | 3   | 1   | 17  | 14  | 3   |
+| Sparta                  | 4   | 4   | 1   | 2   | 1   | 19  | 17  | 2   |
+| K.SK. Heist             | 0   | 4   | 0   | 4   | 0   | 1   | 43  | -42 |
 
 ### Doelpunten
 
