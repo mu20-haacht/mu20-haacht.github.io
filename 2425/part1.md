@@ -16,35 +16,30 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 
 | Selectie | Opmerking |
 | -------- | --------- |
-
-<!--
 | Féliz    |           |
 | Yanaika  |           |
 | Lize     |           |
-| Imke     | Opgevist  |
-| Dee Dee  | Opgevist  |
-| Gitte    |           |
-| Morane   | Opgevist  |
+| Imke     |           |
+| Dee Dee  |           |
+| Marie    |           |
+| Tessa    | Opgevist  |
+| Gitte    | Opgevist  |
+| Ella     |           |
+| Morane   |           |
 | Febe     |           |
 | Lore     |           |
 | Margue   |           |
-| Auke     |           |
-| Nina     |           | 
---> |
+| Auke     | Opgevist  |
+| Nina     |           |
 
 > Nog niet bekend
 
 | Gaan niet mee | Opmerking |
 | ------------- | --------- |
-
-<!--
 | Julia         | ⚕️        |
 | Esmee         | ⚕️        |
 | Tille         | ⚕️        |
-| Marie         | ⚕️        |
-| Tessa         | ⚕️        |
 | Lisa          | ⚕️        |
--->
 
 > Nog niet bekend
 
