@@ -14,10 +14,9 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 > <br>Lostraat 50
 > <br>2220 Heist-op-den-Berg -->
 
-| Selectie | Opmerking |
-| -------- | --------- |
-
-> Nog niet bekend
+| Selectie        | Opmerking |
+| --------------- | --------- |
+| Nog niet bekend |           |
 
 <!-- | Féliz    |           |
 | Yanaika  | Opgevist  |
@@ -33,10 +32,9 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | Auke     |           |
 | Nina     | ⭐ Opgevist  | -->
 
-| Gaan niet mee | Opmerking |
-| ------------- | --------- |
-
-> Nog niet bekend
+| Gaan niet mee   | Opmerking |
+| --------------- | --------- |
+| Nog niet bekend |           |
 
 <!-- | Julia         | ⚕️        |
 | Esmee         | ⚕️        |
@@ -247,7 +245,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | Esmee   | -     | -      | ✅     | -      | -     | -      | -     | -   |
 | Febe    | -     | -      | -      | -      | -     | -      | -     | -   |
 | Féliz   | -     | ✅     | -      | ✅     | -     | -      | -     | -   |
-| Gitte   | -     | -      | -      | -      | ✅    | -      | -     | -   |
+| Gitte   | -     | -      | -      | -      | ✅✅  | -      | -     | -   |
 | Imke    | -     | -      | -      | -      | -     | -      | -     | -   |
 | Julia   | -     | -      | -      | -      | -     | -      | -     | -   |
 | Lisa    | -     | -      | -      | -      | -     | -      | -     | -   |
