@@ -7,12 +7,12 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 
 ## Volgende wedstrijd info
 
-> Volgende wedstrijd is thuis op zondag 20 oktober tegen Grasheide om 10.00 (09.00 ter plaatse)
+<!-- > Volgende wedstrijd is thuis op zondag 20 oktober tegen Grasheide om 10.00 (09.00 ter plaatse) -->
 
-<!-- > Volgende wedstrijd is op zondag 5 oktober tegen K.SK. Heist om 12.30 (11.30 ter plaatse)
-> <br>[Adres](https://www.google.com/maps?ll=51.066819,4.733734&z=16&t=m&hl=nl&gl=US&mapclient=embed&cid=14429946998776962015):
-> <br>Lostraat 50
-> <br>2220 Heist-op-den-Berg -->
+> Volgende wedstrijd is op zater 16 november tegen Groenenhoek om 14.45 (13.45 ter plaatse)
+> <br>[Adres](https://www.google.com/maps/place/K.+Groenenhoek+Sport/@51.194683,4.455304,1250m/data=!3m1!1e3!4m6!3m5!1s0x47c3f75c716f9749:0x19f6e17c5589868f!8m2!3d51.1946832!4d4.4553041!16s%2Fg%2F11b_01r76w?hl=nl&entry=ttu&g_ep=EgoyMDI0MDkwMi4xIKXMDSoASAFQAw%3D%3D):
+> <br>Ruimtevaartlaan 20
+> <br>2100 Antwerpen
 
 | Selectie | Opmerking   |
 | -------- | ----------- |
@@ -57,7 +57,6 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 
 | Datum  | Thuis | Uit | Tegenstander                                                                                                                                                                                                                                                                                      | Dag         | Uur   |
 | ------ | :---: | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----- |
-| 10 nov |  ✅   |     | K.SK. Heist                                                                                                                                                                                                                                                                                       | zondag      | 10.00 |
 | 16 nov |       | ✅  | [Groenenhoek](https://www.google.com/maps/place/K.+Groenenhoek+Sport/@51.194683,4.455304,1250m/data=!3m1!1e3!4m6!3m5!1s0x47c3f75c716f9749:0x19f6e17c5589868f!8m2!3d51.1946832!4d4.4553041!16s%2Fg%2F11b_01r76w?hl=nl&entry=ttu&g_ep=EgoyMDI0MDkwMi4xIKXMDSoASAFQAw%3D%3D)                         | zaterdag    | 14.45 |
 | 24 nov |       | ✅  | [S.V. Grasheide](https://www.google.com/maps/dir/50.9633571,4.6060733/Galeistraat+5a,+2580+Putte/@51.0025639,4.5295929,20084m/data=!3m2!1e3!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x47c158867ffab109:0x94776ad0dff81be1!2m2!1d4.6506754!2d51.0401053?entry=ttu&g_ep=EgoyMDI0MDkwMi4xIKXMDSoASAFQAw%3D%3D) | zondag      | 11.15 |
 | 1 dec  |  ✅   |     | Football Girls Leuven B                                                                                                                                                                                                                                                                           | zondag      | 10.00 |
@@ -77,7 +76,7 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 | 20 okt |  ✅   |     | S.V. Grasheide          | ⬇️2-3   |
 | 26 okt |       | ✅  | Football Girls Leuven B | ⬇️6-1   |
 | 3 nov  |  ✅   |     | Vremde                  | ⬇️2-5   |
-| 10 nov |  ✅   |     | K.SK. Heist             | ❓      |
+| 10 nov |  ✅   |     | K.SK. Heist             | 🏆6-1   |
 | 16 nov |       | ✅  | Groenenhoek             | ❓      |
 | 24 nov |       | ✅  | S.V. Grasheide          | ❓      |
 | 1 dec  |  ✅   |     | Football Girls Leuven B | ❓      |
@@ -96,39 +95,39 @@ Op deze pagina vind je allerlei nuttige informatie & afspraken voor 2024/2025 - 
 
 | Team                    | PTS | M   | W   | V   | G   | +   | -   | +/- |
 | ----------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| S.V. Grasheide          | 22  | 8   | 7   | 0   | 1   | 34  | 11  | 23  |
-| Football Girls Leuven B | 15  | 7   | 5   | 2   | 0   | 38  | 14  | 24  |
-| Vremde                  | 13  | 7   | 4   | 2   | 1   | 31  | 15  | 16  |
-| Sparta                  | 8   | 7   | 2   | 3   | 2   | 28  | 20  | 8   |
-| Groenenhoek             | 5   | 7   | 1   | 4   | 2   | 19  | 17  | 2   |
-| K.SK. Heist             | 0   | 8   | 0   | 8   | 0   | 3   | 76  | -73 |
+| S.V. Grasheide          | 29  | 11  | 9   | 0   | 2   | 51  | 14  | 37  |
+| Football Girls Leuven B | 22  | 11  | 7   | 3   | 1   | 53  | 25  | 28  |
+| Vremde                  | 19  | 9   | 6   | 2   | 1   | 42  | 21  | 21  |
+| Sparta                  | 11  | 10  | 3   | 5   | 2   | 37  | 32  | 5   |
+| Groenenhoek             | 8   | 10  | 2   | 6   | 2   | 40  | 33  | 7   |
+| K.SK. Heist             | 0   | 11  | 0   | 11  | 0   | 9   | 107 | -98 |
 
 ### Doelpunten
 
 | Naam    | 01-Sept | 07-Sept | 15-Sept | 22-Sept | 14-Dec | 05-Oct | 13-Oct | 20-Oct | 26-Oct | 03-Nov | 10-Nov | 16-Nov | 24-Nov | 24-Nov | 01-Dec | 05-Dec | Totaal |
 | ------- | :-----: | :-----: | :-----: | :-----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| Ella    |    2    |         |         |    1    |        |   2    |        |        |   1    |   1    |        |        |        |        |        |        |   5    |
-| Gitte   |    2    |         |         |         |        |   1    |        |   1    |        |        |        |        |        |        |        |        |   4    |
+| Ella    |    2    |         |         |    1    |        |   2    |        |        |   1    |   1    |   2    |        |        |        |        |        |   9    |
+| Gitte   |    2    |         |         |         |        |   1    |        |   1    |        |        |   1    |        |        |        |        |        |   5    |
+| Lisa    |    3    |         |         |         |        |        |        |        |        |   1    |   1    |        |        |        |        |        |   5    |
 | Marie   |    3    |         |         |    1    |        |        |        |        |        |        |        |        |        |        |        |        |   4    |
-| Lisa    |    3    |         |         |         |        |        |        |        |        |        |        |        |        |        |        |        |   3    |
-| Margue  |    1    |         |         |         |        |   1    |        |   1    |        |   1    |        |        |        |        |        |        |   3    |
+| Margue  |    1    |         |         |         |        |   1    |        |   1    |        |        |        |        |        |        |        |        |   3    |
+| Nina    |    1    |         |         |         |        |   1    |        |        |        |        |   1    |        |        |        |        |        |   3    |
 | Esmee   |    2    |         |         |         |        |        |        |        |        |        |        |        |        |        |        |        |   2    |
 | Féliz   |         |    1    |         |         |        |   1    |        |        |        |        |        |        |        |        |        |        |   2    |
-| Nina    |    1    |         |         |         |        |   1    |        |        |        |        |        |        |        |        |        |        |   2    |
 | Auke    |         |         |         |         |        |   1    |        |        |        |        |        |        |        |        |        |        |   1    |
+| Imke    |         |         |         |         |        |        |        |        |        |        |   1    |        |        |        |        |        |   1    |
 | Lize    |    1    |         |         |         |        |        |        |        |        |        |        |        |        |        |        |        |   1    |
 | Tille   |    1    |         |         |         |        |        |        |        |        |        |        |        |        |        |        |        |   1    |
 | Dee_Dee |         |         |         |         |        |        |        |        |        |        |        |        |        |        |        |        |   0    |
 | Febe    |         |         |         |         |        |        |        |        |        |        |        |        |        |        |        |        |   0    |
-| Imke    |         |         |         |         |        |        |        |        |        |        |        |        |        |        |        |        |   0    |
 | Julia   |         |         |         |         |        |        |        |        |        |        |        |        |        |        |        |        |   0    |
 | Lore    |         |         |         |         |        |        |        |        |        |        |        |        |        |        |        |        |   0    |
 | Morane  |         |         |         |         |        |        |        |        |        |        |        |        |        |        |        |        |   0    |
 | Tessa   |         |         |         |         |        |        |        |        |        |        |        |        |        |        |        |        |   0    |
 | Yanaika |         |         |         |         |        |        |        |        |        |        |        |        |        |        |        |        |   0    |
-| Totaal  |   16    |    1    |    0    |    2    |   0    |   7    |   0    |   2    |   1    |   2    |   0    |   0    |   0    |   0    |   0    |   0    |   31   |
-| Tegen   |    0    |    1    |    5    |   11    |   0    |   0    |   0    |   0    |   6    |   5    |   0    |   0    |   0    |   0    |   0    |   0    |   28   |
-|         |         |         |         |         |        |        |        |        |        |        |        |        |        |        |        | Saldo  |   3    |
+| Totaal  |   16    |    1    |    0    |    2    |   0    |   7    |   0    |   2    |   1    |   2    |   6    |   0    |   0    |   0    |   0    |   0    |   37   |
+| Tegen   |    0    |    1    |    5    |   11    |   0    |   0    |   0    |   3    |   6    |   5    |   1    |   0    |   0    |   0    |   0    |   0    |   32   |
+|         |         |         |         |         |        |        |        |        |        |        |        |        |        |        |        | Saldo  |   5    |
 
 ### Speel Schema
 
